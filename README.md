@@ -1,5 +1,4 @@
 DOCUMENTATION FOR THE PROJECT
-PROJECT TITLE :  FAKE NEWS DETECTION 
 Project Name:
 Fake News Detection System
 
