@@ -3,7 +3,7 @@ Project Name:
 Fake News Detection System
 
 Team Members:
-VIASHNAV YADAV
+VAISHNAV YADAV
 VAIBHAV PANJIYAR
 PUNEET SINGH
 
